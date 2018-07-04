@@ -1,0 +1,22 @@
+{
+  "short_name": "restaurants reviews",
+  "name": "restaurant-reviews-app",
+  "icons": [
+    {
+      "src": "img/appIcon/Icon-96.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "img/appIcon/Icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#252831",
+  "orientation": "portrait",
+  "theme_color": "#252831"
+}
