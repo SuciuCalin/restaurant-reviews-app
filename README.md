@@ -35,8 +35,7 @@ For the **Restaurant Reviews** projects, you will incrementally convert a static
   *Python has some simple tools to do this, and you don't even need to know Python. For most people, it's already installed on your computer.
   In a terminal, check the version of Python you have: `python -V`. If you have Python 2.x, spin up the server with `python -m SimpleHTTPServer 8000` (or some other port, if port 8000 is already in use.) For Python 3.x, you can use `python3 -m http.server 8000`. If you don't have Python installed, navigate to Python's [website](https://www.python.org/) to download and install the software.*
 3. With your server running, visit the site: `http://localhost:8000`
-4. Development local API Server. Follow the instructions from [here](Development local API Server.) or from the next step.
-5. Development local API Server: `cd` to the location of server = `/server`
+4. Development local API Server: `cd` to the location of server = `/server`
     * Server depends on [node.js LTS Version: v6.11.2](https://nodejs.org/en/download/) , [npm](https://www.npmjs.com/get-npm), and [sails.js](https://sailsjs.com/). Please make sure you have these installed before proceeding forward.
     * Install project dependancies
     ```
@@ -50,5 +49,5 @@ For the **Restaurant Reviews** projects, you will incrementally convert a static
     ```
     node server
     ```
-6. Enjoy the app!
+5. Enjoy the app!
 #### You should now have access to your API server environment.
